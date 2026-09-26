@@ -19,7 +19,7 @@
 
 ## 🌱 About
 
-Imasion is a 501(c)(3) non-profit working to democratize the next generation of climate change education in underserved communities in Peru and the world.
+Imasion is a 501(c)(3) non-profit working to impact the 2.33 billion children on planet Earth.
 
 ## 📚 Programs
 
